@@ -67,6 +67,11 @@ button {
     margin-left: 13rem;
 }
 
+button:hover {
+    background-color: var(--button);
+    color:white;
+}
+
 h1 {
     font-family: 'Manrope';
     font-size: 8rem;
